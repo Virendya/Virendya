@@ -1,2 +1,4 @@
 #create user vai useradd command"
 useradd useraname
+#now we can provide password vai passwd command
+passwd password
