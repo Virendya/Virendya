@@ -8,3 +8,5 @@ We will create multiple user vai scrite
 how to check kernel parameters
 sysctl -a command and if you want to check partikular
 sysctl -a |grep vm.swappiness
+#ok Soni but I want to change grub parametars like ens to eth0
+and I will making document
