@@ -4,3 +4,7 @@ useradd useraname
 passwd password
 #ok thanks And after that we will complet other task
 We will create multiple user vai scrite 
+#today we will start to change the kernel parameters
+how to check kernel parameters
+sysctl -a command and if you want to check partikular
+sysctl -a |grep vm.swappiness
