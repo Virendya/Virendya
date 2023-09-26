@@ -10,3 +10,5 @@ sysctl -a command and if you want to check partikular
 sysctl -a |grep vm.swappiness
 #ok Soni but I want to change grub parametars like ens to eth0
 and I will making document
+#ok Suman but please don't write code in same branch
+please raise a ticket for other branch
